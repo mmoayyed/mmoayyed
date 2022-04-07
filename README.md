@@ -8,7 +8,7 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 
 ## Projects
 
-<table>
+<table style="border: none">
 	<tr>
 		<td>
 			<a href="https://github.com/apereo/cas">
@@ -19,8 +19,11 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 	</tr>	
 
 	<tr>
-		<td>![https://www.shibboleth.net/](https://user-images.githubusercontent.com/1205228/162155901-f11df26f-43cd-479b-b1f7-2f5e05e54c78.png)</td>
-
+		<td>
+			<a href="https://www.shibboleth.net">
+			<img src="https://user-images.githubusercontent.com/1205228/162155901-f11df26f-43cd-479b-b1f7-2f5e05e54c78.png">
+			</a>
+		</td>
 		<td>Shibboleth Identity Provider is a Single Sign-On solution that prioritises the experience and privacy of your users and keeps your workforce connected both within and between organisations.</td>
 	</tr>	
 </table>	
