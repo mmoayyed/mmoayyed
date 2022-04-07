@@ -16,8 +16,7 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 			</a>
 		</td>
 		<td>CAS is an enterprise multilingual single sign-on solution and identity provider for the web and attempts to be a comprehensive platform for your authentication and authorization needs.</td>
-	</tr>	
-
+	</tr>
 	<tr>
 		<td>
 			<a href="https://www.shibboleth.net">
@@ -25,7 +24,7 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 			</a>
 		</td>
 		<td>Shibboleth Identity Provider is a Single Sign-On solution that prioritises the experience and privacy of your users and keeps your workforce connected both within and between organisations.</td>
-	</tr>	
+	</tr>		
 </table>	
 
 
@@ -34,9 +33,7 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 
 
 
-![https://pac4j.org](https://user-images.githubusercontent.com/1205228/162156165-3ba8acbd-d751-45a6-93f9-c0f24309f9b9.png)
 
-The Java security engine to protect all your web applications and web services.
 
 ## Contact
 
