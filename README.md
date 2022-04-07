@@ -6,7 +6,11 @@ My primary focus is on analysis, specification and development of open-source so
 
 You can read more about me [here](https://fawnoos.com/misagh/).
 
-## Projects
+# Contact
+
+You are welcome to contact me via `mm1844@gmail.com`, or via `info@fawnoos.com`. If you are interested to sponsor the work I do in open-source, please [see this page](https://github.com/sponsors/mmoayyed).
+
+# Projects
 
 <table style="border: none">
 	<tr>
@@ -44,7 +48,3 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 
 </table>	
 
-
-## Contact
-
-You are welcome to contact me via `mm1844@gmail.com`, or via `info@fawnoos.com`.
