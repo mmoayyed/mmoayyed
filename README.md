@@ -10,7 +10,11 @@ You can read more about me [here](https://fawnoos.com/misagh/).
 
 <table>
 	<tr>
-		<td>![https://github.com/apereo/cas](https://user-images.githubusercontent.com/1205228/162155356-79107867-7573-4a3a-a554-ea849677f6c4.png)</td>
+		<td>
+			<a href="https://github.com/apereo/cas">
+			<img src="https://user-images.githubusercontent.com/1205228/162155356-79107867-7573-4a3a-a554-ea849677f6c4.png">
+			</a>
+		</td>
 		<td>CAS is an enterprise multilingual single sign-on solution and identity provider for the web and attempts to be a comprehensive platform for your authentication and authorization needs.</td>
 	</tr>	
 
